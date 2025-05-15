@@ -1,4 +1,4 @@
 # git-demo
 Git Learner repository.
 <br />
-Author - Yash Juneja
+Author - Yash Juneja (Yashul)
